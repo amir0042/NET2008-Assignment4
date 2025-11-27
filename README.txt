@@ -7,4 +7,5 @@ GitHub Repository:
 https://github.com/amir0042/NET2008-Assignment4.git
 
 Docker Hub Image:
-https://hub.docker.com/r/<your-dockerhub-username>/number-guess-game
+
+https://hub.docker.com/r/amir0042/number-guess-game
